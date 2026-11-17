@@ -255,7 +255,7 @@ export default function AboutUsPage() {
                 </div>
                 <div>
                   <h4 className="font-bold text-[#17211D] text-[15px] mb-1">Business Type</h4>
-                  <p className="text-[14px] text-[#66716C]">Proprietorship (Individual Business)</p>
+                  <p className="text-[14px] text-[#66716C]">Private limited company</p>
                 </div>
               </div>
 
