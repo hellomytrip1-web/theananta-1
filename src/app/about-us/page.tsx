@@ -309,7 +309,7 @@ export default function AboutUsPage() {
                 </div>
                 <div>
                   <h4 className="font-bold text-[#17211D] text-[15px] mb-1">Website</h4>
-                  <p className="text-[14px] text-[#66716C]">www.lonavalagateway.com</p>
+                  <p className="text-[14px] text-[#66716C]">www.guest-assist.com</p>
                 </div>
               </div>
 
